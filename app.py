@@ -46,7 +46,7 @@ st.markdown(
 # =========================================================
 # App Header
 # =========================================================
-st.title("💳 Credit Default Risk Prediction")
+st.title("💳 CreditGuard - Credit Default Risk Prediction")
 st.markdown(
     """
     This application estimates the **probability of credit default**
