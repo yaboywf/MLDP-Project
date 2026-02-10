@@ -7,7 +7,7 @@ import pickle
 # Page Config
 # =========================================================
 st.set_page_config(
-    page_title="Credit Default Risk Predictor",
+    page_title="CreditGuard - Credit Default Risk Prediction",
     page_icon="💳",
     layout="centered"
 )
