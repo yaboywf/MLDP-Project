@@ -198,7 +198,7 @@ threshold = st.slider(
     "Risk Threshold",
     min_value=0.1,
     max_value=0.9,
-    value=0.6,
+    value=0.75,
     step=0.05
 )
 
