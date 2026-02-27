@@ -7,7 +7,7 @@ import pickle
 # Page Config
 # =========================================================
 st.set_page_config(
-    page_title="CreditGuard - Credit Default Risk Prediction",
+    page_title="CreditShield - Credit Default Risk Prediction",
     page_icon="💳",
     layout="centered"
 )
@@ -46,7 +46,7 @@ st.markdown(
 # =========================================================
 # App Header
 # =========================================================
-st.title("💳 CreditGuard - Credit Default Risk Prediction")
+st.title("💳 CreditShield - Credit Default Risk Prediction")
 st.markdown(
     """
     This application estimates the **probability of credit default**
